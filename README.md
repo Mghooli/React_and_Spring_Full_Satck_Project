@@ -43,16 +43,15 @@ This project is a full stack web application featuring a **React** frontend, **S
    - Ensure backend allows cross-origin requests from the React frontend origin.
 
 ---
-
 ## Adding Images in README
 
 To include images stored in your project repository within the README file:
 
 - Use **relative paths** if images are inside your repo folders:
 
-  
-  1[React Render](Images/welcome.png)
-  2[Backend Response](Images/welcome.png)
-  3[Sample_Codes](Images/list1.png)
-    [](Images/list2.png)
-  [](Images/list3.png)
+![React Render](Images/welcome.png)  
+![Backend Response](Images/welcome.png)  
+![Sample Codes 1](Images/list1.png)  
+![Sample Codes 2](Images/list2.png)  
+![Sample Codes 3](Images/list3.png)  
+
