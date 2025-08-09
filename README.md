@@ -51,7 +51,7 @@ Welcome, Render from React
 ![React Render](Images/welcome.png)  
 
 BackEnd Response from Spring Boot  
-![Backend Response](Images/welcome.png)  
+![Backend Response](Images/backend.png)  
 
 Sample codes  
 ![Sample Codes 1](Images/list1.png)  
