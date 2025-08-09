@@ -48,10 +48,15 @@ This project is a full stack web application featuring a **React** frontend, **S
 To include images stored in your project repository within the README file:
 
 - Use **relative paths** if images are inside your repo folders:
-
+Welcome, Render from React
 ![React Render](Images/welcome.png)  
+
+BackEnd Response from Spring Boot
 ![Backend Response](Images/welcome.png)  
+Sample codes
 ![Sample Codes 1](Images/list1.png)  
-![Sample Codes 2](Images/list2.png)  
+Sample codes
+![Sample Codes 2](Images/list2.png)
+Sample codes
 ![Sample Codes 3](Images/list3.png)  
 
